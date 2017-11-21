@@ -110,7 +110,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CObjEnemyFarmer.cpp" />
+    <ClCompile Include="CObjEnemyHawk.cpp" />
+    <ClCompile Include="CObjEnemyWolf.cpp" />
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CObjEnemyFarmer.h" />
+    <ClInclude Include="CObjEnemyHawk.h" />
+    <ClInclude Include="CObjEnemyWolf.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
