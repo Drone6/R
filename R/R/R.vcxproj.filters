@@ -18,11 +18,17 @@
     <ClCompile Include="main.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="ObjBackground.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
     <ClCompile Include="trap.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ObjBackground.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
     <ClInclude Include="trap.h">
       <Filter>ソース ファイル</Filter>
     </ClInclude>
